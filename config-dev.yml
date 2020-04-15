@@ -1,6 +1,6 @@
 #config-dev
 config:
-  info: hello,github!world
+  info: hello,github!world,china
 spring:
   application:
     name: solo
